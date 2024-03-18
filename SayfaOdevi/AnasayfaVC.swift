@@ -11,6 +11,10 @@ class AnasayfaVC: UIViewController {
 
     @IBOutlet weak var anasayfaLabel: UILabel!
     override func viewDidLoad() {
+        
+        
+        print("Özgün")
+        
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
@@ -23,4 +27,6 @@ class AnasayfaVC: UIViewController {
     @IBAction func Xgit(_ sender: Any) {
     }
 }
+
+//Özgün
 
